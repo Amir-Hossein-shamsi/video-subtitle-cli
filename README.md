@@ -26,6 +26,11 @@ This Python tool uses FFmpeg and OpenAI Whisper to:
 
    ```bash
    pip install -r requirements.txt
+   pip install git+https://github.com/openai/whisper.git
+   ```
+
+   ```bash
+   pip install -r requirements.txt
    ```
 
 3. **Ensure FFmpeg is installed** and in your PATH:
